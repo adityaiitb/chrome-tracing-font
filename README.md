@@ -24,7 +24,8 @@ colored rectangles.
 Optionally, adjust the font and track height before pasting.
 
 ## Result
-[Before][./before.png] [After][./after.png]
+[Before](https://github.com/adityaiitb/chrome-tracing-font/blob/master/before.png)
+[After](https://github.com/adityaiitb/chrome-tracing-font/blob/master/after.png)
 
 ## Known Issues
 The code does not play nice when tracks are collapsed/expanded. Solutions
