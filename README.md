@@ -16,8 +16,8 @@ font of the labels and the height of the tracks. A track is a row of
 colored rectangles.
 
 ## Instructions
-- Load a trace in `chrome://tracing`.
-- Open Developer tools using `Shift`+`Ctrl`+`I` or `F12`.
+- Load a trace e.g. `resnet.json` in `chrome://tracing`.
+- Open Developer tools using `Shift+Ctrl+I` or `F12`.
 - Go to the Console tab.
 - Paste the code in `adjust_font_height.js`.
 
