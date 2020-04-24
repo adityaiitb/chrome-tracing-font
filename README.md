@@ -21,7 +21,7 @@ colored rectangles.
 - Go to the Console tab.
 - Paste the code in `adjust_font_height.js`.
 
-Optionally, adjust the font and track height before pasting.
+Optionally, adjust the font and track height on lines 2 and 3 in `adjust_font_height.js`.
 
 ## Result
 [Before](https://github.com/adityaiitb/chrome-tracing-font/blob/master/before.png)

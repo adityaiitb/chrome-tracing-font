@@ -1,4 +1,4 @@
-// Adjust these values.
+// Adjust these two values (optional)
 var labelFont = 25;
 var trackHeight = 30;
 
@@ -11,6 +11,7 @@ function adjustTrackHeight(trackHeight) {
 
 adjustTrackHeight(trackHeight);
 
+// Obtained from tracing.js
 tr.ui.b.drawLabels = function(ctx, dt, viewLWorld, viewRWorld, slices, async, fontSize, yOffset) {
     const elidedTitleCache = new tr.ui.b.ElidedTitleCache();
     const ColorScheme = tr.b.ColorScheme;
