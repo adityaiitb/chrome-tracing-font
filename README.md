@@ -28,5 +28,6 @@ Optionally, adjust the font and track height on lines 2 and 3 in `adjust_font_he
 [After](https://github.com/adityaiitb/chrome-tracing-font/blob/master/after.png)
 
 ## Known Issues
-The code does not play nice when tracks are collapsed/expanded. Solutions
-are welcome.
+The code does not play nice when tracks are collapsed/expanded. The code
+also requires modifications if the timeline information is dynamically
+refreshed / reloaded e.g. as new data arrives. Solutions are welcome.
